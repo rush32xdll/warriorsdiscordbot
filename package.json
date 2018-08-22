@@ -1,0 +1,17 @@
+{
+  "name": "warriors",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.4.2",
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
